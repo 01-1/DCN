@@ -1,3 +1,5 @@
+# Decentralized Core Network: DCN.social
+
 You can also view our description at [i.dcn.social](https://i.dcn.social).
 
 DCN: Decentralized Core Network is an innovative SocialFi platform that redefines digital interaction by leveraging the robust capabilities of Core Chain. Our mission is to transform social engagement into a rewarding and fun activity, fostering a vibrant community that thrives on participation and creativity.
